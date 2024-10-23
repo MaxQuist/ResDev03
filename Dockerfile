@@ -1,4 +1,4 @@
 FROM mhart/alpine-node
-COPY . /node_modules
+COPY . /index
 CMD node /index.js
 EXPOSE 3700
