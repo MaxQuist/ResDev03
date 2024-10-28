@@ -7,4 +7,4 @@ services:
     ports:
     - "80:3700"
     volumes:
-    - ./:/index
+    - ./:/app
