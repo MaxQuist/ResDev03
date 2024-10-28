@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-  resdev03:
+  index:
     image: 'xamq/resdev03'
     environment:
     - "PORT=3700"
